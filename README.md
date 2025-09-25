@@ -50,5 +50,5 @@ pip install -r requirements.txt
 ```
 bash
 
-python catfacts.py
+python cat_fact_script.py
 ```
